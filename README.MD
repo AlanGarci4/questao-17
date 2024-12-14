@@ -7,7 +7,7 @@
 Questão 1. Elabore dois testes automatizados para uma API RESTfull de Controle de Ponto de funcionário,
 utilizando uma ferramenta de sua escolha.
 
-- Foram abordados os cenários de: Consulta de Ponto e Registro de Ponto, para os quais també foram usados os dados em um json, por 
+- Foram abordados os cenários de: Consulta de Ponto e Registro de Ponto, para os quais também foram usados os dados em um json, por 
   meio do arquivo cypress.env.jso, utilizando Cypress para simular os testes, contudo não há real base para manipulação e validação específica. Devendo Observar que, os códigos podem não relfetir o reusltado esperado cso utilizados em uma api real, para tal, devem subsituir os dados relavantes para a produção do resultado esperado.
 
 
