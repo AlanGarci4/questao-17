@@ -8,7 +8,7 @@ Questão 1. Elabore dois testes automatizados para uma API RESTfull de Controle 
 utilizando uma ferramenta de sua escolha.
 
 - Foram abordados os cenários de: Consulta de Ponto e Registro de Ponto, para os quais també foram usados os dados em um json, por 
-  meio do arquivo cypress.env.jso, utilizando Cypress para simular os testes, contudo não há real base para manipulação e validação específica. Devendo Observar que, os códigos podem não relfetir o reusltado esperado cso utilizados em uma api real, apra tal, devem subsituir os dados relavantes para a produção do resultado esperado. Sumissão da Prova, Resultado da Prova e Tempo Máximo para Conclusão da Prova.
+  meio do arquivo cypress.env.jso, utilizando Cypress para simular os testes, contudo não há real base para manipulação e validação específica. Devendo Observar que, os códigos podem não relfetir o reusltado esperado cso utilizados em uma api real, para tal, devem subsituir os dados relavantes para a produção do resultado esperado.
 
 
 ## O que fazer para baixar em minha máquina esse projeto exemplo da questão 17?  
